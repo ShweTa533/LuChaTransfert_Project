@@ -1,5 +1,5 @@
 # Luchatransfert_Project
-LuChatransfert Clone 🌍
+# LuChatransfert Clone 🌍
 A responsive clone of the LuChatransfert website, built as my first internship project. This project demonstrates my skills in front-end web designing using HTML, CSS, JavaScript, and media queries to create a simple, user-friendly experience across all devices.
 
 📄 Project Overview
